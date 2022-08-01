@@ -13,5 +13,6 @@
     "nigg",
     "fagg",
     "kike",
-    "twat"
+    "twat",
+    "beaner"
 }
